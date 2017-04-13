@@ -1,7 +1,7 @@
 # MinecraftServerStatus
 This small library provides some information about a requested minecraft server.
 
-####Usage Example
+#### Usage Example
 
 ```PHP
 $server = new MinecraftServerStatus('myserver.com');
